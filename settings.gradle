@@ -1,0 +1,8 @@
+rootProject.name = 'oasis'
+include 'cart'
+include 'payments'
+include 'orders'
+include 'products'
+include 'EurekaServer'
+include 'ApiGateway'
+
